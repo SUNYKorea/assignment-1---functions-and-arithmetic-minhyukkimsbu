@@ -1,7 +1,9 @@
 # Name: Minhyuk KIm 
 # Email: minhyuk.kim@stonybrook.edu
 # SBUID: 115944468
-
+##################### SCORE ######################
+####### good work Score:  10/10
+#################################################
 # Remove the ellipses (...) when writing your solutions.
 
 # ---------------------------- Exercise I ---------------------------------------
